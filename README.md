@@ -1,4 +1,4 @@
-### Hey! My name is Roberto. I am a full-stack developer from Canada 🇨🇦 
+
 
 
 [![Roberto's github stats](https://github-readme-stats.vercel.app/api?username=Infante&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
